@@ -7,6 +7,9 @@
 - Fast, reliable JSON-driven analysis
 - Ideal for sockpuppet detection, fraud OSINT, and social footprint mapping
 
+- ![InboxMan Tool Screenshot](Image2.jpg)
+
+
 ### 🔹 Phone Number Tracer
 - Fetches real-time phone data
 - Extracts info like:
